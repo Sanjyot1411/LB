@@ -12,16 +12,12 @@ Step 5 : Test the program
 //           User is going to enter any two integers
 //           And we have to perform addtion
 ////////////////////////////////////////////////////////////////////
-
-//  Step 2 : Write the algorithm
 /*
-            START
-                    Accept first no as NO1
-                    Accept second no as NO2
-                    Create the variable as Ans to store the result
-                    Perform the addition and store into Ans
-                    Display the result from Ans
-            END
+//  Step 2 : Write the algorithm 
+//           Create the variable as Ans to store the result
+//           Perform the addition and store into Ans
+//           Display the result from Ans
+//           END
 */
 
 ////////////////////////////////////////////////////////////////////
