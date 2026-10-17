@@ -39,8 +39,8 @@ Step 5 : Test the program
 
 int main()
 {
-    int iValue1 = 10, iValue2 = 11, iResult = 0;
-
+    int iValue1 = 10, iValue2 = 11, iResult = 0;        
+    
     iResult = iValue1 + iValue2;         // Business Logic
 
     printf("%d\n", iResult);

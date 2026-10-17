@@ -1,4 +1,3 @@
-#include "Header.h"
 
 ////////////////////////////////////////////////////////////////////
 //
@@ -12,7 +11,7 @@
 ////////////////////////////////////////////////////////////////////
 
 int Addition(
-                int iNo1,        //First parameter
+                int iNo1,        // First parameter
                 int iNo2         // Second parameter
             )
 {

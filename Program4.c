@@ -39,7 +39,7 @@ Step 5 : Test the program
 
 int main()
 {
-    int iValue1 , iValue2 , iResult;
+    int iValue1 , iValue2 , iResult;          // uninitialized local variables may contains garbage in it
 
     printf("Enter first number : \n");
     scanf("%d",&iValue1);

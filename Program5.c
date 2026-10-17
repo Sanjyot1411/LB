@@ -39,7 +39,8 @@ Step 5 : Test the program
 
 int main()
 {
-    int iValue1 = 0 , iValue2 = 0, iResult = 0;
+    int iValue1 = 0 , iValue2 = 0, iResult = 0;      // variables are initialised with default values to avoid garbage
+
 
     printf("Enter first number : \n");
     scanf("%d",&iValue1);
